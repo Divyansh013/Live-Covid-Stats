@@ -1,1 +1,2 @@
-Project to track status of Covid 19 globally live. Deployed site will be updated soon.
+Project to track status of Covid 19 globally live. 
+Site deployed at https://covid-statslive.netlify.app/
